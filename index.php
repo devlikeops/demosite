@@ -1,10 +1,11 @@
 <?php
 
 // Показывать всю информацию, по умолчанию INFO_ALL
-phpinfo();
+//phpinfo();
+echo "Hello world";
 
 // Показывать информацию только о загруженных модулях.
 // phpinfo(8) выдает тот же результат.
-phpinfo(INFO_MODULES);
+//phpinfo(INFO_MODULES);
 
 ?>
